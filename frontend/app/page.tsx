@@ -5,6 +5,7 @@ export default function Home() {
     <main className="">
       hey! how are you
       <h1 className="text-yupvac">shadrack essien</h1>
+      <div className="text-yupvacDark">shadrack essien dark</div>
     </main>
   );
 }

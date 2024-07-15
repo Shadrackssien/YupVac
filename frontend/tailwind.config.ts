@@ -9,8 +9,8 @@ const config: Config = {
   theme: {
     extend: {
       colors: {
-        yupvac: "#ff385c",
-        yupvacDark: "#d50027",
+        yupvac: "#409fdb",
+        yupvacDark: "#0E669E",
       },
     },
   },
