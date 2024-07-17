@@ -1,11 +1,9 @@
-import Image from "next/image";
+import Categories from "./components/Categories";
 
 export default function Home() {
   return (
-    <main className="">
-      hey! how are you
-      <h1 className="text-yupvac">shadrack essien</h1>
-      <div className="text-yupvacDark">shadrack essien dark</div>
+    <main className="max-w-[1500px] mx-auto px-4">
+      <Categories />
     </main>
   );
 }
